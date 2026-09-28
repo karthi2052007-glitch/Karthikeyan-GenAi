@@ -1,2 +1,2 @@
-# Karthikeyan-GenAi
-naan muthalvan project
+# KISHORE-GenAi
+Nan mudhalvan project 
